@@ -1,8 +1,8 @@
 site_name: Tercen Starter Guide
 docs_dir: docs/
 site_url: https://tercen.com
-repo_url: https://github.com/tercen/mkdoc_playground
-repo_name: tercen/starter_guide
+repo_url: https://github.com/tercen/tercen_glossary
+repo_name: tercen/tercen_glossary
 edit_uri: edit/main/docs/
 site_author: "Tercen Authors"
 site_description: "Documentation template"
