@@ -5,7 +5,7 @@ repo_url: https://github.com/tercen/tercen_glossary
 repo_name: tercen/tercen_glossary
 edit_uri: edit/main/docs/
 site_author: "Tercen Authors"
-site_description: "Documentation template"
+site_description: "Tercen Glossary"
 use_directory_urls: true
 
 copyright: Copyright &copy; 2024 Tercen
