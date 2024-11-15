@@ -69,6 +69,10 @@ An In-page navigation is generated in the left sidebar from the markdown heading
       - Collaboration Tips: collaborate.md
 ```
 
+> [!WARNING]
+> DON'T DELETE THE `package.json` file!
+
+
 ## Local Build Instructions (Linux)
 
 ```shell
