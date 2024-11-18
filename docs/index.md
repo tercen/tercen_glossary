@@ -1,5 +1,8 @@
 # **The Tercen Glossary**
 
+> [!WARNING]
+> DON'T DELETE THE `package.json` file!
+
 These are words you’ll commonly see when you use Tercen
 
 ---
